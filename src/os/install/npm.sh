@@ -31,6 +31,8 @@ main() {
     install_npm_package "!nstant-markdown-d" "instant-markdown-d"
     install_npm_package "Babel" "babel-cli"
     install_npm_package "JSHint" "jshint"
+    install_npm_package "cordova" "cordova"
+    install_npm_package "ionic" "ionic"
 
 }
 
