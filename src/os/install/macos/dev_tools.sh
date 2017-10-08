@@ -18,6 +18,7 @@ brew_install "Groovy" "groovy"
 brew_install "Gradle" "gradle"
 brew_install "Gradle completions for Bash and Zsh" "gradle-completion"
 brew_install "Yarn: JavaScript package manager, replaces bower" "yarn"
+brew_install "Anaconda 2" "anaconda2" "caskroom/cask" "cask"
 
 brew_install "iterm2" "iterm2" "caskroom/versions" "cask"
 brew_install "eclipse-jee" "eclipse-jee" "caskroom/versions" "cask"
