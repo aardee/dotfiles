@@ -13,8 +13,8 @@ print_in_purple "\n   Browsers\n"
 printf "\n"
 
 brew_install "Chrome" "google-chrome" "caskroom/cask" "cask"
-brew_install "Chrome Canary" "google-chrome-canary" "caskroom/versions" "cask"
-brew_install "Chromium" "chromium" "caskroom/cask" "cask"
+#brew_install "Chrome Canary" "google-chrome-canary" "caskroom/versions" "cask"
+#brew_install "Chromium" "chromium" "caskroom/cask" "cask"
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

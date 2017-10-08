@@ -16,11 +16,11 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
 ./gpg.sh
 #./image_tools.sh
 ./misc.sh
-./misc_tools.sh
 ./dev_tools.sh
-./photography_tools.sh
+./misc_tools.sh
 ./../npm.sh
 ./tmux.sh
+./photography_tools.sh
 #./video_tools.sh
 ./../vim.sh
 ./web_font_tools.sh
