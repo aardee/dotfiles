@@ -1,4 +1,4 @@
-# [aardee](https://github.com/aardee)’s dotfiles forked from [alrra's dotfiles)](https://github.org/alrra/dotfiles)
+# [aardee](https://github.com/aardee)’s dotfiles (forked from [alrra's dotfiles](https://github.com/alrra/dotfiles))
 
 These are the base dotfiles that I start with when I set up a
 new environment. For more specific local needs I use the `.local`
