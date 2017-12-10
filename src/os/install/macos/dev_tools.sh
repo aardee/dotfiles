@@ -25,3 +25,7 @@ brew_install "eclipse-jee" "eclipse-jee" "caskroom/versions" "cask"
 brew_install "scala-ide" "scala-ide" "caskroom/versions" "cask"
 brew_install "textmate" "textmate" "caskroom/versions" "cask"
 brew_install "sublime-text" "sublime-text" "caskroom/versions" "cask"
+
+# Instal Docker
+#brew_install "Docker" "docker" "caskroom/cask" "cask"
+#brew_install "Virtualbox" "virtualbox" "caskroom/cask" "cask"

@@ -22,4 +22,3 @@ brew_install "totalfinder" "totalfinder" "caskroom/versions" "cask"
 
 #Improved top (interactive process viewer) for OS X (https://github.com/max-horvath/htop-osx)
 brew_install "htop-osx" "htop-osx"
-
