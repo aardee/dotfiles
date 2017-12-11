@@ -8,6 +8,7 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
 
 ./xcode.sh
 ./homebrew.sh
+./my_dev_tools.sh
 ./bash.sh
 ./../nvm.sh
 ./browsers.sh
@@ -16,7 +17,7 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
 ./gpg.sh
 #./image_tools.sh
 ./misc.sh
-./my_dev_tools.sh
+#./my_dev_tools.sh
 ./my_misc_tools.sh
 ./../npm.sh
 ./tmux.sh
